@@ -1,0 +1,44 @@
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(86, 216, 205);
+}
+header
+{
+    display: flex;
+    justify-content:center;
+    background-color: red;
+    width: 100%;
+    height: fit-content;
+
+}
+.cartinhas
+{
+    display: flex;
+    justify-content:center;
+}
+img
+{
+    width: 150px;
+}
+
+.card
+{
+    width: 200px;
+    background-color: rgb(241, 202, 95);
+    padding: 10px;
+    margin: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.cabeçalho
+{
+    color: white;
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
